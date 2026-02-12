@@ -15,5 +15,3 @@ _start:
 
 .data
 hello_string:
-        .asciz  "Hello, world!\n"
-
